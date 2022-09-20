@@ -32,6 +32,23 @@ body::before {
   margin: auto;
 }
 
+.h2mission{
+  margin-right: 50%;
+}
+.about-heading {
+  margin-top: 100px;
+}
+
+.leadership {
+  font-weight: 700;
+  font-size: 26px;
+  color: #18d26e;
+}
+
+.bxs-check-circle {
+  color: #18d26e;
+}
+
 
 @media (min-width: 1024px) {
   body::before {
@@ -92,7 +109,7 @@ h6 {
 }
 
 #header h2 {
-  font-size: 24px;
+  font-size: 20px;
   margin-top: 20px;
   color: rgba(255, 255, 255, 0.8);
 }
@@ -139,6 +156,7 @@ h6 {
   #header h2 {
     font-size: 20px;
     line-height: 30px;
+    margin-right: 0px;
   }
 
   #header .social-links {
@@ -415,10 +433,10 @@ section .container {
 
 .section-title p {
   margin: 0;
-  margin: -15px 0 15px 0;
-  font-size: 36px;
-  font-weight: 700;
-  text-transform: uppercase;
+  margin: 15px 0 15px 0;
+  /* font-size: 36px; */
+  /* font-weight: 700; */
+  /* text-transform: uppercase; */
   font-family: "Poppins", sans-serif;
   color: #fff;
 }
@@ -913,9 +931,9 @@ section .container {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a {
-  color: #fff;
-  margin: 0 2px;
-  font-size: 28px;
+  /* color: #fff; */
+  margin-top: 10px;
+  font-size: 25px;
   display: inline-block;
   transition: 0.3s;
 }

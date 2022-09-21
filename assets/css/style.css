@@ -326,7 +326,7 @@ h6 {
     display: none;
   }
 
-  body::before {
+  body {
    
     right: -50;
 

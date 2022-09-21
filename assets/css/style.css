@@ -325,12 +325,6 @@ h6 {
   .navbar ul {
     display: none;
   }
-
-  body {
-    position: relative;
-    margin-right: -90px;
-
-  }
 }
 
 .navbar-mobile {

@@ -325,6 +325,12 @@ h6 {
   .navbar ul {
     display: none;
   }
+
+  body::before {
+   
+    right: -50;
+
+  }
 }
 
 .navbar-mobile {

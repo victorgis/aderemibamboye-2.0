@@ -158,7 +158,7 @@ h6 {
 }
 
 #header .social-links a:hover {
-  background: #18d26e;
+  background: #dd8924;
 }
 
 @media (max-width: 992px) {
@@ -571,7 +571,7 @@ section .container {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #18d26e;
+  background-color: #dd8924;
 }
 
 /*--------------------------------------------------------------

@@ -117,7 +117,7 @@ h6 {
   color: #fff;
   line-height: 1;
   display: inline-block;
-  opacity: 0.4;
+  /* opacity: 0.4; */
 }
 
 #header h2 {
@@ -177,7 +177,8 @@ h6 {
   }
 
   #header .container {
-    margin-top: 250px;
+    margin-top: 430px;
+    text-align: center;
     display: flex;
     flex-direction: column;
     align-items: center;

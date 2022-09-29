@@ -43,11 +43,11 @@ body::before {
 .leadership {
   font-weight: 700;
   font-size: 26px;
-  color: #18d26e;
+  color: #dd8924;
 }
 
 .bxs-check-circle {
-  color: #18d26e;
+  color: #dd8924;
 }
 
 /* .bg {
@@ -66,12 +66,12 @@ body::before {
 }
 
 a {
-  color: #18d26e;
+  color: #dd8924;
   text-decoration: none;
 }
 
 a:hover {
-  color: #35e888;
+  color: #dd8924;
   text-decoration: none;
 }
 
@@ -280,7 +280,7 @@ h6 {
   height: 2px;
   bottom: -4px;
   left: 0;
-  background-color: #18d26e;
+  background-color: #dd8924;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -465,7 +465,7 @@ section .container {
 .about-me .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #18d26e;
+  color: #dd8924;
 }
 
 .about-me .content ul {
@@ -486,7 +486,7 @@ section .container {
 .about-me .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #18d26e;
+  color: #dd8924;
   line-height: 0;
 }
 
@@ -682,7 +682,7 @@ section .container {
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #18d26e;
+  background-color: #dd8924;
 }
 
 /*--------------------------------------------------------------
@@ -710,7 +710,7 @@ section .container {
   text-transform: uppercase;
   /* font-family: "Poppins", sans-serif; */
   font-family: 'Open Sans';
-  color: #18d26e;
+  color: #dd8924;
   margin-bottom: 10px;
 }
 
@@ -806,8 +806,8 @@ section .container {
 }
 
 .services .icon-box:hover {
-  background: #18d26e;
-  border-color: #18d26e;
+  background: #dd8924;
+  border-color: #dd8924;
 }
 
 .services .icon-box:hover .icon {
@@ -815,11 +815,11 @@ section .container {
 }
 
 .services .icon-box:hover .icon i {
-  color: #18d26e;
+  color: #dd8924;
 }
 
 .services .icon-box:hover .icon::before {
-  background: #35e888;
+  background: #dd8924;
 }
 
 .services .icon-box:hover h4 a,
@@ -1054,7 +1054,7 @@ section .container {
 }
 
 .portfolio-details .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #18d26e;
+  background-color: #dd8924;
 }
 
 /*--------------------------------------------------------------
@@ -1069,7 +1069,7 @@ section .container {
 
 .contact .info-box i.bx {
   font-size: 24px;
-  color: #18d26e;
+  color: #dd8924;
   border-radius: 50%;
   padding: 14px;
   float: left;
@@ -1106,7 +1106,7 @@ section .container {
 }
 
 .contact .info-box .social-links a:hover {
-  color: #18d26e;
+  color: #dd8924;
 }
 
 .contact .php-email-form {
@@ -1151,7 +1151,7 @@ section .container {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #18d26e;
+  border: 3px solid #dd8924;
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -1250,7 +1250,7 @@ section .container {
 }
 
 .credits a {
-  color: #18d26e;
+  color: #dd8924;
   transition: 0.3s;
 }
 

@@ -108,7 +108,7 @@ h6 {
   padding: 0;
   line-height: 1;
   font-weight: 700;
-  font-family: "Pacifico", sans-serif;
+  font-family: "Open Sans", sans-serif;
   /* font-family: 'Open Sans'; */
 }
 
@@ -117,11 +117,13 @@ h6 {
   color: #fff;
   line-height: 1;
   display: inline-block;
+  /* opacity: 0.3; */
 }
 
 #header h2 {
   font-size: 20px;
   margin-top: 20px;
+  font-weight: bold;
   color: rgba(255, 255, 255, 0.8);
 }
 
@@ -166,7 +168,7 @@ h6 {
 
   #header h2 {
     font-size: 16px;
-    line-height: 30px;
+    line-height: 25px;
     margin-right: 0px;
   }
 
